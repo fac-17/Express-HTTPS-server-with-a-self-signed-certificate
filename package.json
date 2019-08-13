@@ -1,0 +1,23 @@
+{
+  "name": "express-https-server-with-a-self-signed-certificate",
+  "version": "1.0.0",
+  "description": "Express HTTPS server with a self-signed certificate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fac-17/Express-HTTPS-server-with-a-self-signed-certificate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fac-17/Express-HTTPS-server-with-a-self-signed-certificate/issues"
+  },
+  "homepage": "https://github.com/fac-17/Express-HTTPS-server-with-a-self-signed-certificate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
