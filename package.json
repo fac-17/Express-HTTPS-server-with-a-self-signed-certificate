@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/fac-17/Express-HTTPS-server-with-a-self-signed-certificate#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
